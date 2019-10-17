@@ -56,6 +56,7 @@ h1{
 .middle-container{
     width: 800px;
     margin: 2rem auto;
+    border: 1px solid red;
 }
 
 .profile{
@@ -64,4 +65,20 @@ h1{
 
 .profile_image{
     width: 100px;
+}
+
+.skills img{
+    width: 80px;
+}
+
+.img-skill1{
+    float: left;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+.img-skill2{
+    float: right;
+    margin-left: 1rem;
+    margin-top: 1rem;
 }
